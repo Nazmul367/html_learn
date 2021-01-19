@@ -19,3 +19,9 @@ ctrl + E - css  file ar property r upor a click kore color picker use kora jai
 parent sob smy - relative & chaild sob smy absolute hobe
 
 html entities - &mdash! means -
+
+ionicons - icon
+
+flatuicolor - for color
+
+0to255 - deep color
