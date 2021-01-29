@@ -357,7 +357,7 @@ header {
 }
 
 .works-step div {
-    display: inline-block;
+    /* display: inline-block; */
     color: #cf6d17;
     text-align: center;
     height: 55px;
